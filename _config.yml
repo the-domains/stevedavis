@@ -1,0 +1,28 @@
+name: SteveDavis
+favicon: null
+layout_spectrum: 0.74766610795632
+typography_spectrum: 0.4165468926075846
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3213560429867357
+  lightness: 0.05686660669744015
+  saturation: 0.17051335331052542
+  rhythmicContrast: 0.16145835490897298
+purpose: []
